@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ambika-cyber
+- 👋 Hi, I’m Ambika Sadh
 - 👀 I’m interested in Python Django Web Development.
-- 🌱 I’m currently learning Django Framework.
-- 💞️ I’m looking to collaborate on django projects.
+- 🌱 I’m currently learning Django Framework and Flutter.
+- 💞️ I’m looking to collaborate on django projects and Flutter projects.
 - 📫 My Email Address : ambikasadh12@gmail.com
 
 <!---
